@@ -1,7 +1,7 @@
 # Ray_tracer
-Basic Ray Tracer based on the book Ray Tracing in one weekend
+Basic Ray Tracer based on the book Ray Tracing in One Weekend
 
 # Usage
-- run with make.
-- Render using make render. 
-- clean with make clean.
+- Run with <code>make</code>.
+- Render using <code>make render</code>. 
+- Clean with <code>make clean</code>.
